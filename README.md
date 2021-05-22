@@ -3,7 +3,7 @@ Code run platform for different languages.
 
 Step -1 Login page
 
-![Screenshot (21)](https://user-images.githubusercontent.com/28671306/119215209-cfb7af00-bae9-11eb-91c3-24245259404d.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/28671306/119215253-23c29380-baea-11eb-9467-aaa9d119b41c.png)
 
 Step -2 Questions Dashboard
 
