@@ -2,10 +2,13 @@
 Code run platform for different languages.
 
 Step -1 Login page
-![Screenshot (20)](https://user-images.githubusercontent.com/28671306/119214960-3a67eb00-bae8-11eb-8530-3723a318867e.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/28671306/119215209-cfb7af00-
+bae9-11eb-91c3-24245259404d.png)
 
 Step -2 Questions Dashboard
-![Screenshot (23)](https://user-images.githubusercontent.com/28671306/119215125-5ae47500-bae9-11eb-9b3a-eb4109cf6c5c.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/28671306/119215212-d21a0900-bae9-11eb-9f36-9fb8aacef6f0.png)
 
 Candidate can not attempts its question and submit the code.
 
