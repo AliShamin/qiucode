@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "topic": "Array",
+    "question": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.You may assume that each input would have exactly one solution, and you may not use the same element twice.You can return the answer in any order.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  },
+  {
+    "id": 1,
+    "topic": "Algorithm",
+    "question": "Write binary search algorithm.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  },
+  {
+    "id": 2,
+    "topic": "Design",
+    "question": "Design animal class with multiple behavior and properties.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  },
+  {
+    "id": 3,
+    "topic": "Data Stucture",
+    "question": "Implement stack using array in Java.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  },
+  {
+    "id": 4,
+    "topic": "Algorithm",
+    "question": "Write binary search algorithm.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  },
+  {
+    "id": 5,
+    "topic": "Design",
+    "question": "Design animal class with multiple behavior and properties.",
+    "example1": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1].",
+    "example2": "Input: nums = [2,7,11,15], target = 9\r\nOutput: [0,1]\r\nOutput: Because nums[0] + nums[1] == 9, we return [0, 1]."
+  }
+]

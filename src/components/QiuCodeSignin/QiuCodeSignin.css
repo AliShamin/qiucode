@@ -1,0 +1,32 @@
+#mt-signin-page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(174, 248, 236);
+}
+#mt-qlogo {
+  position: fixed;
+  top: 2rem;
+  left: 2rem;
+}
+#mt-login-button {
+  width: 16rem;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  font-size: large;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  background-color: white;
+}
+#mt-login-button > img {
+  margin: 0rem 1rem 0rem 0rem;
+}
+#mt-login-button:hover {
+  background-color: rgb(243, 243, 243);
+}

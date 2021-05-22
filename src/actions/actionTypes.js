@@ -1,0 +1,5 @@
+export const NEXT_QUESTION = "NEXT_QUESTION";
+export const PREV_QUESTION = "PREV_QUESTION";
+export const UPDATE_QUESTION_ID = "UPDATE_QUESTION_ID";
+export const USER_LOGGED_IN = "USER_LOGGED_IN";
+export const RUN_CODE = "RUN_CODE";
