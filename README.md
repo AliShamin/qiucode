@@ -1,5 +1,5 @@
 # qiucode
-Code run platform for different languages.
+Code run platform for different languages build using React.js
 
 Step -1 Login page
 
