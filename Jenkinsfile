@@ -5,6 +5,14 @@ pipeline {
             steps {
                 echo 'Hello world!' 
             }
+            steps {
+                sh npm install 
+            }
+        }
+        stage('Build'){
+            steps {
+               sh ng build --prod
+            }
         }
     }
 }
