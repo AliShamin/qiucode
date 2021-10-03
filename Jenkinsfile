@@ -3,7 +3,8 @@ node {
   checkout scm
   stage('Build') {
   echo 'Started Building....'
-  sh 'npm build'
+  sh 'npm install'
+  sh 'npm run build'
   }
   stage('Test') {
   echo 'Building....'
