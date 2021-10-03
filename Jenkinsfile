@@ -1,18 +1,12 @@
-pipeline {
-    agent any 
-    stages {
-        stage('Stage 1') {
-            steps {
-                echo 'Hello world!' 
-            }
-            steps {
-                npm install 
-            }
-        }
-        stage('Build'){
-            steps {
-                ng build --prod
-            }
-        }
-    }
+// Script //
+node {
+  stage('Build') {
+  echo 'Building....'
+  }
+  stage('Test') {
+  echo 'Building....'
+  }
+  stage('Deploy') {
+  echo 'Deploying....'
+  }
 }
