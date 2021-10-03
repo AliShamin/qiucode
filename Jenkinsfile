@@ -6,12 +6,12 @@ pipeline {
                 echo 'Hello world!' 
             }
             steps {
-                sh npm install 
+                npm install 
             }
         }
         stage('Build'){
             steps {
-               sh ng build --prod
+                ng build --prod
             }
         }
     }
